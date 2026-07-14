@@ -1,0 +1,18 @@
+name: peggedassets-server
+id: ari:cloud:compass:033435a5-1581-4af5-88e2-30c6172c6ab6:component/7b4e73c7-5fa7-4e44-85a5-26705e0ff5e0/365c0b74-14d6-41af-8f70-8aea24c4ab72
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/AUDD-Digital/peggedassets-server
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
